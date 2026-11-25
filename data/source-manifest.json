@@ -1,0 +1,209 @@
+[
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S17.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S17.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:a982733a79acedb1d29589bb8465ab39",
+    "sha256": "c87fea8e2c751113321c75be2ebbad441751923a9f224f29986bbe398f05eac1",
+    "bytes": 5155
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S10.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S10.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:0c344c184a3ef5c9dd6761948a5a5fc2",
+    "sha256": "8d78f5560bc22cb862c52d267902e2d4c4ad000252296ea71b68014218d208a9",
+    "bytes": 5244
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S12.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S12.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:823eb210484ceca247d4ffd0ba6a406c",
+    "sha256": "6d67ca4a46d35cd92195d838cc734baea3f03f525c88fde90570b26a633cd69e",
+    "bytes": 5158
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S1_(high_temperature).xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S1_(high_temperature).xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:b9e0248ee92f9548fa9da2698fea8021",
+    "sha256": "bb1b48fb738fd381856f1b256a6be6fb18d7e8b2120ccf4102f6f7d8c9523c28",
+    "bytes": 5722
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S11.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S11.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:7de4d3fcbb9358c3fea72503fe7a1a3d",
+    "sha256": "3b664e862749cd3584c3e76db674d139d67783e0a6fc50630d02cdb99b998eb0",
+    "bytes": 5158
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S4.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S4.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:56aff350349fdd9b59d5f07980be1dbd",
+    "sha256": "15d7939c24a118b7e2f83014a002f0b813eb95b85a94bb32d0eef334fe9434e6",
+    "bytes": 5254
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S13.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S13.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:c93f3592ec0c8082b6e3765189c03833",
+    "sha256": "97c98d0deabe55bd669a0ce93c607177308683d8607b56b3efc9b5af6e92110e",
+    "bytes": 5238
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S9.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S9.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:a7a6d71a7e7d1914f1a5d63d1a283cf5",
+    "sha256": "d43e4c2671362376b627aaad1da5ddb3b04891405bfbacb47ce6db248c21d5ee",
+    "bytes": 5163
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S12_(high_temperature).xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S12_(high_temperature).xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:893397b64c262846b25592ef92bb091a",
+    "sha256": "63e823cc1752949db656d7a76be86dfeb5efd6b216de26647a000c18a47997ca",
+    "bytes": 5831
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S15_(high_temperature).xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S15_(high_temperature).xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:62bf420edfc36ca60cc9464b1b63c7c1",
+    "sha256": "05092464b3787be307183dda39d1081597cd34ac36a6ad7adcf7f8d53de6e61b",
+    "bytes": 5767
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S9_(high_temperature).xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S9_(high_temperature).xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:73c1b7ad940e456969ff8e6538cb2703",
+    "sha256": "5a7032d9691c0b83025039276b3249f8cb6639dae313b4a7527f38067e0d7472",
+    "bytes": 5622
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S16.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S16.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:3f7db869dca1b976bb558247fc9fb494",
+    "sha256": "47b6741c5a3406348b42e0d5bf968cef0e848b1b3af66efd89a7df31415e2f28",
+    "bytes": 5243
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S5.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S5.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:c92207ad7c5efd3f3d4d8ecc4f07111f",
+    "sha256": "0fbc39a2ca91f9e0d1012566d3bd6cb90d980b7fb64dd716ffd8cf7f3d14980a",
+    "bytes": 5201
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S8_(high_temperature).xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S8_(high_temperature).xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:5649261ffb19b10876957a3e37047359",
+    "sha256": "d7f5b49da606db3f7b2c5549a52505cfbd885f3fa7b929d31886a9419d85f362",
+    "bytes": 5604
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S15.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S15.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:e59ba2ca002ae36ee67c660c2894bd55",
+    "sha256": "45d235bb5f65472c93aee30c32b4212b01a29ca89eb0ab9f0212f4edec1f32e3",
+    "bytes": 5147
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S8.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S8.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:8e0a7683f5558a9bb3c7f4aa1f7d8ac6",
+    "sha256": "21641798c90f115f06481dfc68a110c75cdb90d632ae6cb6edfad16dd4e2107d",
+    "bytes": 5249
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S11_(high_temperature).xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S11_(high_temperature).xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:fa4db906dfdf09df6189f8afc972b111",
+    "sha256": "451d4c7ceb00568ed98020fed14a877b1db8f84413defb0b9e369263e619f8ca",
+    "bytes": 5645
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S1.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S1.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:86e900b1ba73673093f76a40dc7fde5a",
+    "sha256": "1e34b2e95ec92ac713b75ebadea836994213866c7a29bfcf3bc1685295324561",
+    "bytes": 5140
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S7.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S7.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:a273097d40da462ed90dfc6f9049b134",
+    "sha256": "ce38a6b6c51e07a74feaa8d03685d10f8ea223ffaea38f90098e489df1be3386",
+    "bytes": 5249
+  },
+  {
+    "file": "000-ReadMe - data description - Necina-et-al.-012026.txt",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/000-ReadMe%20-%20data%20description%20-%20Necina-et-al.-012026.txt/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:f13f4e6c118bd618c886a97f8170c048",
+    "sha256": "79d4864620084463d00f6c9225d42f9dc2829dea695086dcc856f60315480ebf",
+    "bytes": 990
+  },
+  {
+    "file": "Temperature_data_(thermal_diffusivity)_sample_S6.xlsx",
+    "record_doi": "10.5281/zenodo.18244921",
+    "source_url": "https://zenodo.org/api/records/18244921/files/Temperature_data_(thermal_diffusivity)_sample_S6.xlsx/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:a97d101bbeda05819aba474ea34f87ff",
+    "sha256": "500bfc53c1eb2da5b72e4ee87e459e3ae59f8258ebfcbb1d09c03d0436cc2f1a",
+    "bytes": 5228
+  },
+  {
+    "file": "000-ReadMe - data description - Necina-et-al.-012026_article.txt",
+    "record_doi": "10.5281/zenodo.19251828",
+    "source_url": "https://zenodo.org/api/records/19251828/files/000-ReadMe%20-%20data%20description%20-%20Necina-et-al.-012026_article.txt/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:0a2c29fcf9bb9f31e140c0bc32dc67da",
+    "sha256": "bd1eee9e6f914850d591e7236b1ee21624ffe0452a596e179b9a540ddd7798a3",
+    "bytes": 994
+  },
+  {
+    "file": "Necina_et_al_2026_Open_Ceramics.pdf",
+    "record_doi": "10.5281/zenodo.19251828",
+    "source_url": "https://zenodo.org/api/records/19251828/files/Necina_et_al_2026_Open_Ceramics.pdf/content",
+    "license": "CC BY 4.0",
+    "source_checksum": "md5:ffc05728001af51fe2f3135e6643242e",
+    "sha256": "ab864b26eb9cd763dd5c1d3fb59fb23a25e75fba860e2e08f45c8acf240469b5",
+    "bytes": 5590825
+  }
+]
